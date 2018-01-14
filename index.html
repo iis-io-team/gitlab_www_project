@@ -1,36 +1,57 @@
 <!DOCTYPE html>
 <html>
     <head>
-        	
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" rel="stylesheet">
     </head>
     <body>
         <nav class="navbar">
-            Page navigation
+                <div class="navbar-header">
+        <a class="navbar-brand" href="#">IISlabPIO</a>
+    </div>
+    <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+            <li><a href="#section1">Systemy kontroli wersji</a></li>
+            <li><a href="#section2">Rozproszony system kontroli wersji</a></li>
+			<li><a href="#section3">Scentralizowany system kontroli wersji</a></li>
+        </ul>
+    </div>
         </nav>
         <section id="section1" class="panel panel-default">
             <div class="panel-heading">
-                <h3 class="panel-title">Section1 title</h3>
+                <h3 class="panel-title">Systemy kontroli wersji</h3>
             </div>
             <div class="panel-body">
-                Section1 content
+                System kontroli wersji (ang. version/revision control system) – oprogramowanie służące do śledzenia zmian głównie w kodzie źródłowym oraz pomocy programistom w łączeniu zmian dokonanych w plikach przez wiele osób w różnych momentach czasowych.
             </div>
             <footer class="panel-footer">
-                Section1 footer
+                <a href="http://pl.wikipedia.org/wiki/System_kontroli_wersji">Wikipedia</a>
             </footer>
         </section>
         <section id="section2" class="panel panel-default">
             <div class="panel-heading">
-                <h3 class="panel-title">Section2 title</h3>
+                <h3 class="panel-title">Rozproszony system kontroli wersji.</h3>
             </div>
             <div class="panel-body">
-                Section2 content
+                W rozproszonych systemach kontroli wersji (takich jak Git, Mercurial, Bazaar lub Darcs) klienci nie dostają dostępu jedynie do najnowszych wersji plików ale w pełni kopiują całe repozytorium. Gdy jeden z serwerów, używanych przez te systemy do współpracy, ulegnie awarii, repozytorium każdego klienta może zostać po prostu skopiowane na ten serwer w celu przywrócenia go do pracy.
             </div>
             <footer class="panel-footer">
-                Section2 footer
+                <a href="http://git-scm.com/book/pl/Pierwsze-kroki-Wprowadzenie-do-kontroli-wersji#Rozproszone-systemy-kontroli-wersji">Git - podręcznik</a>
             </footer>
         </section>
+    <section id="section3" class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title">Scentralizowany system kontroli wersji.</h3>
+        </div>
+        <div class="panel-body">
+           W scentralizowanych systemach kontroli wersji istnieje jedno centralne repozytorium, przechowuj�ce wszystkie jednostki poddane kontroli wersji oraz wielu klient�w, kt�rzy ��cz�c si� z nim za po�rednictwem us�ugi, uzyskuj� dost�p do poszczeg�lnych wersji si� dokument�w.
+        </div>
+        <footer class="panel-footer">
+            <a href="http://git-scm.com/book/pl/Pierwsze-kroki-Wprowadzenie-do-kontroli-wersji#Scentralizowane-systemy-kontroli-wersji">Git - podr�cznik</a>
+        </footer>
+    </section>
         <footer  class="navbar">
-            Page footer
+            Opracowane na zajęciach "Podstawy systemu Git" w ramach laboratorium z Podstaw Inżynierii Oprogramowania w <a href="http://www.iis.p.lodz.pl/">Instytucie Informatyki Stosowanej PŁ</a>
         </footer>
     </body>
 </html>
