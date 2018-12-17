@@ -1,8 +1,8 @@
-# gitlab context - a simple www project 
+﻿# gitlab context - a simple www project 
 
 Repo contains initial version of simple www project for the purpose of Git topic of Software Engineering laboratory.
 
-# informacje po polsku
+# Rozproszony system kontroli wersji.
 
 Repozytorium zawiera początkową wersje projektu przetwarzanego w trakcie laboratoriów podstaw wykorzystania systemu kontroli wersji Git, realizowanego w ramach przedmotu 'Podstawy Inżynierii Oprogramowania' prowadzonego przez Instytut Informatyki Stosowanej dla studentów kierunku Informatyka na wydziale Elektrotechniki, Elektroniki Informatyki i Automatyki Politechniki Łódzkiej.
 
