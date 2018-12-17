@@ -4,7 +4,7 @@ Repo contains initial version of simple www project for the purpose of Git topic
 
 # Rozproszony system kontroli wersji.
 
-Repozytorium zawiera początkową wersje projektu przetwarzanego w trakcie laboratoriów podstaw wykorzystania systemu kontroli wersji Git, realizowanego w ramach przedmotu 'Podstawy Inżynierii Oprogramowania' prowadzonego przez Instytut Informatyki Stosowanej dla studentów kierunku Informatyka na wydziale Elektrotechniki, Elektroniki Informatyki i Automatyki Politechniki Łódzkiej.
+W rozproszonych systemach kontroli wersji (takich jak Git, Mercurial, Bazaar lub Darcs) klienci nie dostają dostępu jedynie do najnowszych wersji plików ale w pełni kopiują całe repozytorium. Gdy jeden z serwerów, używanych przez te systemy do współpracy, ulegnie awarii, repozytorium każdego klienta może zostać po prostu skopiowane na ten serwer w celu przywrócenia go do pracy.
 
 ## materiały i dodatkowe informacje
 
