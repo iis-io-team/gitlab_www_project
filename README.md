@@ -1,6 +1,6 @@
 ﻿﻿# Systemy kontroli wersji
 
-Repo contains initial version of simple www project for the purpose of Git topic of Software Engineering laboratory.
+System kontroli wersji (ang. version/revision control system) – oprogramowanie służące do śledzenia zmian głównie w kodzie źródłowym oraz pomocy programistom w łączeniu zmian dokonanych w plikach przez wiele osób w różnych momentach czasowych.
 
 # Rozproszony system kontroli wersji.
 
