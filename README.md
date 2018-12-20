@@ -13,3 +13,6 @@ W rozproszonych systemach kontroli wersji (takich jak Git, Mercurial, Bazaar lub
 
 - [poprzednia wersja laboratorium z opisem koncepcji i zrzutami grafów rewizji](https://github.com/radamus/gitlab)
 
+###Scentralizowany system kontroli wersji.
+
+W scentralizowanych systemach kontroli wersji istnieje jedno centralne repozytorium, przechowujące wszystkie jednostki poddane kontroli wersji oraz wielu klientów, którzy łącząc się z nim za pośrednictwem usługi, uzyskują dostęp do poszczególnych wersji się dokumentów.
