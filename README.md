@@ -6,6 +6,11 @@ System kontroli wersji (ang. version/revision control system) – oprogramowanie
 
 W rozproszonych systemach kontroli wersji (takich jak Git, Mercurial, Bazaar lub Darcs) klienci nie dostają dostępu jedynie do najnowszych wersji plików ale w pełni kopiują całe repozytorium. Gdy jeden z serwerów, używanych przez te systemy do współpracy, ulegnie awarii, repozytorium każdego klienta może zostać po prostu skopiowane na ten serwer w celu przywrócenia go do pracy.
 
+# Scentralizowany system kontroli wersji.
+
+W scentralizowanych systemach kontroli wersji istnieje jedno centralne repozytorium, przechowujące wszystkie jednostki poddane kontroli wersji oraz wielu klientów, którzy łącząc się z nim za pośrednictwem usługi, uzyskują dostęp do poszczególnych wersji się dokumentów.
+
+
 ## materiały i dodatkowe informacje
 
 - [opis zadań laboratoryjnych](https://docs.google.com/document/d/e/2PACX-1vQz9Vasa7JN1QCsjb3D0DPibND4AIwSRazTbU26tQmFMr9sk1bTYXJm80o_zjNZc_DzIAc-wfu1UESG/pub)
