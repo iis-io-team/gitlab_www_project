@@ -1,4 +1,4 @@
-﻿# Systemy kontroli wersji
+# Systemy kontroli wersji
 
 System kontroli wersji (ang. version/revision control system) – oprogramowanie służące do śledzenia zmian głównie w kodzie źródłowym oraz pomocy programistom w łączeniu zmian dokonanych w plikach przez wiele osób w różnych momentach czasowych.
 
@@ -9,6 +9,7 @@ W rozproszonych systemach kontroli wersji (takich jak Git, Mercurial, Bazaar lub
 # Scentralizowany system kontroli wersji.
 
 W scentralizowanych systemach kontroli wersji istnieje jedno centralne repozytorium, przechowujące wszystkie jednostki poddane kontroli wersji oraz wielu klientów, którzy łącząc się z nim za pośrednictwem usługi, uzyskują dostęp do poszczególnych wersji się dokumentów.
+
 
 ## materiały i dodatkowe informacje
 
