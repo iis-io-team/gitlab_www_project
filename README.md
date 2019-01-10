@@ -30,3 +30,5 @@ Scentralizowany system kontroli wersji.
 
 
 W scentralizowanych systemach kontroli wersji istnieje jedno centralne repozytorium, przechowujące wszystkie jednostki poddane kontroli wersji oraz wielu klientów, którzy łącząc się z nim za pośrednictwem usługi, uzyskują dostęp do poszczególnych wersji się dokumentów.
+
+<a href="http://git-scm.com/book/pl/Pierwsze-kroki-Wprowadzenie-do-kontroli-wersji#Scentralizowane-systemy-kontroli-wersji">Git - podręcznik</a>
