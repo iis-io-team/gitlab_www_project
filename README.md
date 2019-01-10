@@ -29,3 +29,4 @@ Repozytorium zawiera początkową wersje projektu przetwarzanego w trakcie labor
 Scentralizowany system kontroli wersji.
 
 
+W scentralizowanych systemach kontroli wersji istnieje jedno centralne repozytorium, przechowujące wszystkie jednostki poddane kontroli wersji oraz wielu klientów, którzy łącząc się z nim za pośrednictwem usługi, uzyskują dostęp do poszczególnych wersji się dokumentów.
