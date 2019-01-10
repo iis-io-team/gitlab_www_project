@@ -24,3 +24,8 @@ Repozytorium zawiera początkową wersje projektu przetwarzanego w trakcie labor
             Section3 footer
         </footer>
     </section>
+
+
+Scentralizowany system kontroli wersji.
+
+
