@@ -13,3 +13,14 @@ Repozytorium zawiera początkową wersje projektu przetwarzanego w trakcie labor
 
 - [poprzednia wersja laboratorium z opisem koncepcji i zrzutami grafów rewizji](https://github.com/radamus/gitlab)
 
+ <section id="section3" class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title">Section3 title</h3>
+        </div>
+        <div class="panel-body">
+            Section3 content
+        </div>
+        <footer class="panel-footer">
+            Section3 footer
+        </footer>
+    </section>
