@@ -13,3 +13,6 @@ Repozytorium zawiera początkową wersje projektu przetwarzanego w trakcie labor
 
 - [poprzednia wersja laboratorium z opisem koncepcji i zrzutami grafów rewizji](https://github.com/radamus/gitlab)
 
+#Rozproszony system kontroli wersji.
+
+
