@@ -13,4 +13,6 @@ Repozytorium zawiera początkową wersje projektu przetwarzanego w trakcie labor
 
 - [poprzednia wersja laboratorium z opisem koncepcji i zrzutami grafów rewizji](https://github.com/radamus/gitlab)
 
-Systemy kontroli wersji
+#Systemy kontroli wersji
+
+System kontroli wersji (ang. version/revision control system) – oprogramowanie służące do śledzenia zmian głównie w kodzie źródłowym oraz pomocy programistom w łączeniu zmian dokonanych w plikach przez wiele osób w różnych momentach czasowych.
