@@ -1,1 +1,1 @@
-[Pierwsza Czesc](https://htmlpreview.github.io/?https://github.com/209450/iislabpio_209450/blob/iota/iotaPIO.html)
+[Pierwsza Czesc](https://htmlpreview.github.io/?https://github.com/209450/iislabpio_209450/blob/iota/strona.html)
