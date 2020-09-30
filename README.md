@@ -1,4 +1,4 @@
-# gitlab context - a simple www project 
+# gitlab context - a simple and amazing www project 
 
 Repo contains initial version of simple www project for the purpose of Git topic of Software Engineering laboratory.
 
